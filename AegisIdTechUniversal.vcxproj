@@ -78,6 +78,7 @@
   <ItemGroup>
     <ClCompile Include="Source\IdTechAdapter.cpp" />
     <ClCompile Include="Common\AegisUniversalRuntime\Source\AegisUniversalRuntime.cpp" />
+    <ClCompile Include="Common\AegisUniversalRuntime\Source\AegisUniversalSdk.cpp" />
     <ClCompile Include="Common\AegisUniversalRuntime\Source\dllmain.cpp" />
     <ClCompile Include="Common\AegisUniversalRuntime\Source\AegisUniversalOverlay.cpp" />
     <ClCompile Include="Source\IdTechOverlayMenu.cpp" />
